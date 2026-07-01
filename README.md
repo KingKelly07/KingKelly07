@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingKelly07, Software Engineering student and Aspiring CyberSecurity Specialist.
 - 👀 I’m interested in web design and app development.
-- 🌱 I’m currently learning web design.
-- 💞️ I’m looking to collaborate on web design gigs.
+- 🌱 I love implementing AI in my work for faster shipping.
+- 💞️ I’m looking to collaborate on tech gigs.
 - 📫 How to reach me (kelvinonuoha21@gmail.com).
 - 😄 Pronouns:(he/HIM).
 - ⚡ Fun fact: Yeahh.. I'm not fun actually 😂
